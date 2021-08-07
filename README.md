@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me akashvijay@ieee.org
+- 📫 Reach me @ akashvijay@ieee.org
 
 <!---
 akashvijay2002/akashvijay2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
