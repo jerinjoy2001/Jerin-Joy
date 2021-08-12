@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Vijay
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me @ akashvijay@ieee.org
 
