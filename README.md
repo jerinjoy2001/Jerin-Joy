@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Vijay
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me @ akashvijay@ieee.org
 
