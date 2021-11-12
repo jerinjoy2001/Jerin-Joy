@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Akash Vijay
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me @ akashvijay@ieee.org
+<img src = "header.png">
 
-<!---
-akashvijay2002/akashvijay2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/akash-vijay-34a078164/">
+<img src = "https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&labelColor=blue">
+</a>
+
+<a href="https://twitter.com/AkashVi41849838">
+<img src ="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter">
+</a>
+
+<a href="mailto:akashvijay@ieee.org">
+<img src ="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail">
+</a>
+
+<br>
+<br>
+I am a Cyber Security aspirant, currently focusing on Web Security.
+<br>
+Connect with me for collaborations.
