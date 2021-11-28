@@ -8,12 +8,7 @@
 <img src ="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter">
 </a>
 
-<a href="mailto:akashvijay@ieee.org">
-<img src ="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail">
-</a>
+<br>
+<br>
 
-<br>
-<br>
-I am a Cyber Security aspirant, currently focusing on Web Security.
-<br>
-Connect with me for collaborations.
+I am an aspiring developer with interests in DevOps, CyberSec and WebDev. Connect with me for collaborations.
