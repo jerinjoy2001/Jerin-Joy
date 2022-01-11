@@ -14,7 +14,7 @@
 
 <br>
 <br>
-I am a Cyber Security aspirant, currently focusing on Web Security.
+I am a student engineer with interests in Web Development & Web Security.
 <br>
 Connect with me for collaborations.
 
