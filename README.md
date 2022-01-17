@@ -18,27 +18,3 @@ I am a student engineer with interests in Web Development & Web Security.
 <br>
 Connect with me for collaborations.
 
-<br>
-
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align="center">
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashvijay2002&theme=holi-theme))](https://git.io/streak-stats) 
-  
-  <br>
-  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashvijay2002&show_icons=true&theme=github_dark)
-  
-</div>
-
-<div align="center">
-  
-  <br>
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvijay2002&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-  
