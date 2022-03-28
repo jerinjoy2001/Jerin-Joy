@@ -24,9 +24,10 @@
 <br><br>
 ## About Me 👨  <br>
 * 👨‍💻 I am a **Cyber Security Aspirant** with 2 years of experience
+* 🪙 A passionate **Blockchain Developer** in search of possibilities
 * ✍️ I'm also a self paced **Writer** who loves to tell stories
 * 🧑‍🎓 Currently enjoying my 2nd-Year as a **Student Engineer** 
-* ☕ Most importantly, in a healthy relationship with Coffee
+* ☕ Most importantly, in a healthy relationship with **Coffee**
   
 <br><br>
 ## What I do ? 😉  <br>
