@@ -23,10 +23,10 @@
 --- 
 <br><br>
 ## About Me 👨  <br>
-* 👨‍💻 I am a Developer with 2 years of experience
-* 🪙 A passionate **Designer** in search of possibilities
-* ✍️ A self paced **Writer** who loves to tell stories
-* 🧑‍🎓 Currently enjoying my 2nd-Year as a **Student Engineer** 
+* 👨‍💻 **Developer**
+* 🪙 **Designer**
+* ✍️ **Story Teller** 
+* 🧑‍🎓 **Student Engineer** 
 * ☕ Most importantly, in a healthy relationship with **Coffee**
   
 <br><br>
