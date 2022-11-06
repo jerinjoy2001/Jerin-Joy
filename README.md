@@ -34,37 +34,9 @@
 * 💻 **Application Development**
 * 🌐 **Web Development**
 * ✨ **Graphical & UI Designing**
-* 🕵️‍♂️ **Open Source Intelligence**
 * ✍️ **Content Writing**
 
-<br><br>
-## Languages and Tools 🧰
-<div class=icons design="inline">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40px" height="40px" title="Bash Scripting">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px" title="Bootstrap">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" title="C Language">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px" title="CSS3">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px" height="40px" title="Dart Language">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40px" height="40px" title="Debian System">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40px" height="40px" title="Fedora System">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px" height="40px" title="Figma">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px" height="40px" title="Flutter">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px" title="Git">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" title="HTML5">    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" height="40px" title="Java Language">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40px" height="40px" title="Javascript"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40px" height="40px" title="JetBrains"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40px" height="40px" title="Jupyter"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40px" height="40px" title="Markdown"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" width="40px" height="40px" title="Moodle"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40px" height="40px" title="PyCharm">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" height="40px" title="Python"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40px" height="40px" title="Selenium"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40px" height="40px" title="Solidity">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40px" height="40px" title="VS Code"> 
-</div>
-<br>
-<br>
+
 
 <br><br>
 ## Stats ⭐
