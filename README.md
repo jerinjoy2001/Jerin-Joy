@@ -3,19 +3,19 @@
 </div>
 
 <div id="greeting" align="center">
-  <h1> Hey There, I'm Akash &#128075; </h1>  
+  <h1> Hey There, I'm Jerin &#128075; </h1>  
 </div>
 
 <div id="social-media" align="center">
-<a href="https://www.linkedin.com/in/akash-vijay-34a078164/">
+<a href="https://www.linkedin.com/in/jerin-joy-930252203/">
 <img src = "https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
 
-<a href="https://twitter.com/AkashVi41849838">
+<a href="https://twitter.com/Jerin_2001">
 <img src ="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter">
 </a>
 
-<a href="mailto:akashvijay@ieee.org">
+<a href="mailto:jerinjoy2482001@gmail.com">
 <img src ="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail">
 </a>
 </div>
@@ -23,10 +23,10 @@
 --- 
 <br><br>
 ## About Me 👨  <br>
-* 👨‍💻 **Developer**
+* 👨‍💻 **Front end Developer**
 * 🪙 **Designer**
 * ✍️ **Story Teller** 
-* 🧑‍🎓 **Student Engineer** 
+* 🧑‍🎓 **Student Developer** 
 * ☕ Most importantly, in a healthy relationship with **Coffee**
   
 <br><br>
